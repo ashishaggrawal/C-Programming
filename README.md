@@ -100,6 +100,10 @@ gcc -std=c11 -Wall -Wextra Medium/CheckPrime.c -o CheckPrime
 
 Each program reads its input from the keyboard. The expected input and output are documented in the comments at the top of every file.
 
+## Note on Commit History
+
+My original copy of this work was lost when my external hard drive was damaged, and I rebuilt the repository afterwards. Commit dates approximate when the original work was done, not when it was re-uploaded.
+
 ## Author
 
 **Ashish Aggrawal**: [GitHub](https://github.com/ashishaggrawal)
